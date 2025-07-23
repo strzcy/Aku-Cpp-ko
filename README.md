@@ -1,4 +1,6 @@
 # Aku-Cpp-ko
+blajar ci pluz plus <br>
+<br>
 
 y/n : km kenapa? <br>
 me : aku CPP kok.. <br>
@@ -7,4 +9,4 @@ me : aku beneran CPP deh, asli <br>
 <br>
 guru : 'apasih ni anak dua kaga jelas' <br>
 <br>
-blajar ci pluz plus
+
