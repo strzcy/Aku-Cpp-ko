@@ -2,7 +2,7 @@
 blajar ci pluz plus <br>
 <br>
 
-===cerita singkat ===
+===cerita singkat === <br>
 y/n : km kenapa? <br>
 me : aku CPP kok.. <br>
 y/n : kamu asli GPP? <br>
